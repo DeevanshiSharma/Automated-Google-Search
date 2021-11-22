@@ -7,16 +7,14 @@ In this project, Google search is automated using python language. The program u
 
 Requirements:
 
-> Install Selenium using pip install in your terminal.
+- Install Selenium using pip install in your terminal.
 
-pip install selenium
-> Download the chrome browser from here (chose version the same as your chrome for your system). After downloading, extract it and then copy the file to the folder of the script.
+>>>pip install selenium
 
- 
+- Download the chrome browser from here (chose version the same as your chrome for your system). After downloading, extract it and then copy the file to the folder of the script.
 
 Save the code in main.py, and run the following command in your terminal.
 
-python test.py
-After running the source code the google search results will automatically pull up and will look something like the image below:
+>>>python test.py
 
 Good luck!
