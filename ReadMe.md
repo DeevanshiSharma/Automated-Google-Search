@@ -1,4 +1,4 @@
-# Automated-google-search\-Python
+# Automated-google-search\Python
  This is a Python source code for Automating Google search using the selenium library. As the name suggests, it takes user input and automatically initializes a Google search for that.
 
 Since businesses are on their path to digital transformation, Automating tasks like google searching does three main things, replaces human tedious tasks, minimizes errors, and uses case helps.
