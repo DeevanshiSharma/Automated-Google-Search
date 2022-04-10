@@ -3,7 +3,7 @@
 
 Since businesses are on their path to digital transformation, Automating tasks like google searching does three main things, replaces human tedious tasks, minimizes errors, and uses case helps.
 
-In this project, Google search is automated using python language. The program uses selenium (a browser automation tool). It is a portable framework for testing web applications. It can automatically perform the same interactions that any you need to perform manually and this is a small example of it.
+In this project, Google search is automated using python language. The program uses selenium (a browser automation tool). It is a portable framework for testing web applications. It can automatically perform the same interactions that anyone needs to perform manually and this is a small example of it.
 
 Requirements:
 
